@@ -1,0 +1,13 @@
+key_type,distance,service_type,price
+Llave 1 - sin botones,5,customer,80
+Llave 1 - sin botones,5,store,50
+Llave 1 - sin botones,25,customer,100
+Llave 1 - sin botones,25,store,50
+Llave 2 - con botones,5,customer,150
+Llave 2 - con botones,5,store,120
+Llave 2 - con botones,25,customer,180
+Llave 2 - con botones,25,store,120
+Llave 3 - push button,5,customer,200
+Llave 3 - push button,5,store,180
+Llave 3 - push button,25,customer,220
+Llave 3 - push button,25,store,180
